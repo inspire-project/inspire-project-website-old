@@ -347,7 +347,7 @@ ul.top-navigation li.right {
 
 .content-box-flex-fact-image img {
   width: 100%;
-  margin-top: calc(100% - 50% - 250px - 5px); /* height of table, picture and padding bottom of text */
+  margin-top: calc(100% - 45% - 250px - 5px); /* height of table, picture and padding bottom of text */
   padding: 0px;
 }
 
