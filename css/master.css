@@ -289,7 +289,7 @@ ul.top-navigation li.right {
 
 /*  FACT TABLE */
 .content-box-flex-fact {
-  flex: 1 0 50%;
+  flex: 1 0 45%;
   z-index: 1;
   min-width: 380px;
   display: flex;
