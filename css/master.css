@@ -60,7 +60,7 @@ footer {
 .content-box {
   width: 80vw;
   max-width: 1080px;
-  min-width: 480px; /* Width of most mobile screens */
+  min-width: 380px; /* Width of most mobile screens */
   margin-left: 10vw;
   position: relative;
   overflow: hidden;
@@ -78,7 +78,7 @@ footer {
 
 .content-box-image-left {
   width: 50%;
-  min-width: 480px;
+  min-width: 380px;
   float: left;
   padding-right: 10px;
   padding-bottom: 10px;
@@ -86,7 +86,7 @@ footer {
 
 .content-box-image-right {
   width: 50%;
-  min-width: 480px;
+  min-width: 380px;
   float: right;
   padding-left: 10px;
   padding-bottom: 10px;
@@ -129,7 +129,7 @@ footer {
 .content-box-flex-text {
   flex: 1 0 380px;
   z-index: 1;
-  min-width: 480px;
+  min-width: 380px;
 }
 
 
@@ -291,7 +291,7 @@ ul.top-navigation li.right {
 .content-box-flex-fact {
   flex: 1 0 45%;
   z-index: 1;
-  min-width: 380px;
+  min-width: 250px;
   display: flex;
   flex-flow: column wrap;
 }
@@ -359,7 +359,7 @@ ul.top-navigation li.right {
 .feature-box {
   width: 80vw;
   max-width: 1080px;
-  min-width: 480px; /* Width of most mobile screens */
+  min-width: 380px; /* Width of most mobile screens */
   min-height: 400px;
   margin-left: 10vw;
   position: relative;
